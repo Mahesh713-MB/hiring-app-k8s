@@ -13,7 +13,7 @@ pipeline {
         IMAGE_NAME            = 'my-nginx'
 
         // Replace with your Argo CD manifests repository
-        GITOPS_REPO            = 'https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITOPS_REPO.git'
+        GITOPS_REPO            = 'https://github.com/Mahesh713-MB/hiring-app-k8s.git'
         GITOPS_BRANCH          = 'main'
         GITOPS_CREDENTIALS     = 'Github_server'
 
